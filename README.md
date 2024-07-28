@@ -93,7 +93,7 @@ Getting Started!
 To get started, simply clone this repository and open the HTML files in your preferred web browser. Each folder contains projects and exercises related to specific topics.
 bash:
 Copy code:
-git clone https://github.com/yourusername/html-learning-journey.git
+git clone https://github.com/MwahajJutt/HTML-Crash-Course?tab=readme-ov-file
 cd html-learning-journey
 Contributing
 If you have any suggestions or improvements, please feel free to submit a pull request or open an issue. Contributions are highly appreciated!
