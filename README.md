@@ -97,6 +97,4 @@ git clone https://github.com/MwahajJutt/HTML-Crash-Course.git
 cd html-learning-journey
 Contributing
 If you have any suggestions or improvements, please feel free to submit a pull request or open an issue. Contributions are highly appreciated!
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 Happy coding! 🎉
